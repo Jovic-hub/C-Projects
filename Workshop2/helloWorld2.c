@@ -1,4 +1,3 @@
-// Student: Joao Victor Fernandes dos santos - Id: jvfernandes-dos-sant
 #include <stdio.h> 	
 
 int main(void) 
