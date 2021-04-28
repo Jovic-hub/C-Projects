@@ -1,18 +1,4 @@
-//==============================================
-// Name:           Joao Victor Fernandes dos Santos
-// Student Number: 155858194
-// Email:          jvfernandes-dos-sant@myseneca.ca
-// Section:        NZZ
-// Date:           20/11/2020
-//==============================================
-// Assignment:     2
-// Milestone:      2
-//==============================================
 
-// +-------------------------------------------------+
-// | NOTE:  Copy/Paste your Assignment-2 Milestone-1 |
-// |        contents below...                        |
-// +-------------------------------------------------+
 
 // Clear the standard input buffer
 void clearKeyboard(void);
