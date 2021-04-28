@@ -1,21 +1,4 @@
-//==============================================
-// Name:           Joao Victor Fernandes dos Santos
-// Student Number: 155858194
-// Email:          jvfernandes-dos-sant@myseneca.ca
-// Section:        NZZ
-// Workshop:       5 (at-home)
-//==============================================
 
-// Copy your source code from in_lab file to here
-// Expand the option list to include option 3 & 4 after 
-// option 2. as following
-// "3. Update Employee Salary"
-// "4. Remove Employee"
-
-// Create two switch-cases for option 3 & 4 after case 2. 
-// Implement "Update Salary" and "Remove Employee" 
-// functionality as per instructions
-// inside the relevant case statements
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
