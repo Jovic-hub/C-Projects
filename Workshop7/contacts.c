@@ -1,13 +1,4 @@
-//==============================================
-// Name:           Joao Victor Fernandes dos Santos
-// Student Number: 155858194
-// Email:          jvfernandes-dos-sant@myseneca.ca
-// Section:        NZZ
-// Date:           20/11/2020
-//==============================================
-// Assignment:     2
-// Milestone:      2
-//==============================================
+
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
