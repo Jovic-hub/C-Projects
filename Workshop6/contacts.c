@@ -1,13 +1,4 @@
-/* -------------------------------------------
-Name: Joao Victor Fernandes dos Santos
-Student number: 155858194
-Email: jvfernandes-dos-sant@myseneca.ca
-Section: NZZ
-Date: 10/31/2020
-----------------------------------------------
-Assignment: 1
-Milestone:  4
----------------------------------------------- */
+
 
 #define _CRT_SECURE_NO_WARNINGS
 
